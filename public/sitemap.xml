@@ -7,8 +7,12 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url><url>
     <loc>http://localhost:1313/reading/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/thinking/</loc>
   </url>
 </urlset>

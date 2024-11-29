@@ -9,7 +9,7 @@ draft: false
 
 ## what I'm thinking about
 - Multi-party proportional representation in the United States (2024-11-05)
-- Stoicism, parenting, and autism (2024-11-27)
+- The intersection of Stoicism, parenting, and autism (2024-11-27)
 
 ## what I'm working on
 - Writing a book of poetry (2024-09-04)
