@@ -1,0 +1,22 @@
+:root {
+  --accent: #ff6225;
+}
+
+.index-content h2 {
+  margin: 0;
+  line-height: 1;
+}
+
+.index-content ul {
+  margin: .5em .5em 2em 1.5em;
+}
+
+.index-content h3 {
+  margin: 2em 0 .5em;
+  line-height: 1;
+}
+
+.index-content p {
+  margin: 0;
+  line-height: 1.54;
+}

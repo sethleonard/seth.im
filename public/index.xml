@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seth / ·𐑕𐑧𐑔</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Seth / ·𐑕𐑧𐑔</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Archives</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;em&gt;started 2024-11-12&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nothing since site started&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;p&gt;&lt;em&gt;started 2024-11-12&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nothing since site started&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Reading Archives</title>
+      <link>http://localhost:1313/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/reading/</guid>
+      <description>&lt;p&gt;&lt;em&gt;started 2024-11-12&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;All Systems Red&lt;/em&gt; (2024-11-27)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alice&amp;rsquo;s Adventures in Wonderland&lt;/em&gt; (abandoned)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Piranisi by Susanna Clarke&lt;/em&gt; (2024-11-14)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;p&gt;&lt;em&gt;started 2024-11-12&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;All Systems Red&lt;/em&gt; (2024-11-27)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Alice&amp;rsquo;s Adventures in Wonderland&lt;/em&gt; (abandoned)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Piranisi by Susanna Clarke&lt;/em&gt; (2024-11-14)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Thinking Archives</title>
+      <link>http://localhost:1313/thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/thinking/</guid>
+      <description>&lt;p&gt;&lt;em&gt;started 2024-11-12&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The multiple facets of autism (2024-11-27)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content>&lt;p&gt;&lt;em&gt;started 2024-11-12&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The multiple facets of autism (2024-11-27)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
