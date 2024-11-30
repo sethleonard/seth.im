@@ -71,9 +71,9 @@ theme = 'terminal'
 
       [languages.en.menu]    
         [[languages.en.menu.main]]
-          identifier = "projects"
+          identifier = "working"
           name = "Project Archives"
-          url = "/projects"
+          url = "/working"
           
         [[languages.en.menu.main]]
           identifier = "reading"
