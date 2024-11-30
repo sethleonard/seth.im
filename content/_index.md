@@ -4,7 +4,6 @@ draft: false
 ---
 
 ## what I'm reading
-#- _The Light Eaters_ by Zoë Schlanger (2024-11-27)
 - _waiting for my library request to arrive_
 
 ## what I'm thinking about
