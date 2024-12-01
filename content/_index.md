@@ -14,6 +14,7 @@ draft: false
 - Writing a book of poetry (2024-09-04)
 - Learning Shavian (2024-11-02)
 - Developing a Shavian translator Firefox extension (2024-11-15)
+- Building an [entire website](http://𐑕𐑧𐑔.ws) in Shavian (2024-11-11)
 
 ### special interests
 baseball, databases, mechanical watches, personal systems, rap music, riding trains, script programming, spreadsheets, stoicism, tea, the shavian alphabet, writing things down
