@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## what I'm reading
-- _waiting for my library request to arrive_
+- _Semiosis_ by Sue Burke (2024-12-06)
 
 ## what I'm thinking about
 - Multi-party proportional representation in the United States (2024-11-05)
