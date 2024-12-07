@@ -5,6 +5,7 @@ draft: false
 
 ## what I'm reading
 - _Semiosis_ by Sue Burke (2024-12-06)
+- _Good Different_ by Meg Eden (2024-12-01)
 
 ## what I'm thinking about
 - Multi-party proportional representation in the United States (2024-11-05)
